@@ -1,0 +1,10 @@
+{
+	"willy" : {
+		"password" : "12345",
+		"level" : "root"
+	},
+	"sammy" : {
+		"password" : "qwerty",
+		"level" : "user"
+	}
+}
